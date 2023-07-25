@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://vscode.dev/tunnel/azhedeimaclocal/Users/azhe/Downloads/dist 2",
+            "request": "launch",
+            "url": "https://vscode.dev/tunnel/azhedeimaclocal/Users/azhe/Downloads/dist 2"
+        }
+    ]
+}
